@@ -20,12 +20,13 @@ Here are some ideas to get you started:
 
 ### What I'm working on 👨‍💻
 
-📺 Currently building a chrome extension called 1Stream <br>
+📺 Currently building a chrome extension (1Stream) to watch Netflix and Youtube videos with friends <br>
 
 ### What I’m currently learning 🌱
 
 💾 Modern data architecture <br>
 🕸️ Data Mesh
+
 
 ### Find me elsewhere 🌎
 
@@ -33,3 +34,4 @@ Here are some ideas to get you started:
 🐦 [Twitter](https://twitter.com/portovep) <br>
 📸 [Instagram](https://instagram.com/porto.vga) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/pabloportoveloso/) <br>
+📚 [Goodreads](https://www.goodreads.com/portovep) <br>
