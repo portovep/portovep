@@ -20,7 +20,11 @@ Here are some ideas to get you started:
 
 ### What I'm working on 👨‍💻
 
-📺 Currently building a chrome extension (1Stream) to watch Netflix and Youtube videos with friends <br>
+📺 Currently building 
+- A [continous delivery playground](https://github.com/portovep/continuous-delivery-playground) on Github to teach people CI/CD principles by practicing
+- A chrome extension ([1Stream](https://github.com/portovep/1stream)) to watch Netflix and Youtube videos with friends <br>
+
+
 
 ### What I’m currently learning 🌱
 
