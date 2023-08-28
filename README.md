@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 🐦 [Twitter](https://twitter.com/portovep) <br>
 📸 [Instagram](https://instagram.com/porto.vga) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/pabloportoveloso/) <br>
-📚 [Goodreads](https://www.goodreads.com/portovep) <br>
+📚 [Literal.club](https://literal.club/pabloreads) <br>
