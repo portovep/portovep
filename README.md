@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 ### What I have been building 👨‍💻
 
 📺 Currently building 
-- [dbt-testing-examples](https://github.com/portovep/dbt-testing-examples) - A dbt app with examples of how to implement real unit, component, and contract tests for dbt data apps
-- [continous-delivery-playground](https://github.com/portovep/continuous-delivery-playground) - A hands-on tutorial for code bootcamps that want to teach continuous delivery concepts by practicing
+- [dbt-testing-examples](https://github.com/portovep/dbt-testing-examples) - A reference dbt app with examples of how to implement different types of tests for dbt data apps
+- [continous-delivery-playground](https://github.com/portovep/continuous-delivery-playground) - A hands-on tutorial for code bootcamps that want to teach continuous delivery concepts
 - [1Stream](https://github.com/portovep/1stream) - A chrome extension to watch Netflix and Youtube videos with friends <br>
 
 
