@@ -18,24 +18,25 @@ Here are some ideas to get you started:
 🤓 Technical lead at [@Thoughtworks](https://thoughtworks.com) <br>
 🇪🇸 Born in Galicia, Spain
 
-### What I'm working on 👨‍💻
+### What I have been building 👨‍💻
 
 📺 Currently building 
-- A [continous delivery playground](https://github.com/portovep/continuous-delivery-playground) on Github to teach people CI/CD principles by practicing
-- A chrome extension ([1Stream](https://github.com/portovep/1stream)) to watch Netflix and Youtube videos with friends <br>
+- [dbt-testing-examples](https://github.com/portovep/dbt-testing-examples) - A dbt app with examples of how to implement real unit, component, and contract tests for dbt data apps
+- [continous-delivery-playground](https://github.com/portovep/continuous-delivery-playground) - A hands-on tutorial for code bootcamps that want to teach continuous delivery concepts by practicing
+- [1Stream](https://github.com/portovep/1stream) - A chrome extension to watch Netflix and Youtube videos with friends <br>
 
 
 
 ### What I’m currently learning 🌱
 
 💾 Modern data architecture <br>
-🕸️ Data Mesh
+🕸️ Data Mesh and data products
 
 
 ### Find me elsewhere 🌎
 
 🚀 [Site](https://pabloporto.me) <br>
-🐦 [Twitter](https://twitter.com/portovep) <br>
+✍🏻 [Medium](https://medium.com/@pablo.porto) <br>
 📸 [Instagram](https://instagram.com/porto.vga) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/pabloportoveloso/) <br>
 📚 [Literal.club](https://literal.club/pabloreads) <br>
