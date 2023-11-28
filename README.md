@@ -18,7 +18,11 @@ Here are some ideas to get you started:
 🤓 Technical lead at [@Thoughtworks](https://thoughtworks.com) <br>
 🇪🇸 Born in Galicia, Spain
 
+
+
 ### What I have been building 👨‍💻
+> "Verum ipsum factum."  
+We only know what we make - Giambattista Vico
 
 - [dbt-testing-examples](https://github.com/portovep/dbt-testing-examples) - A reference dbt app with examples of how to implement different types of tests for dbt data apps
 - [continous-delivery-playground](https://github.com/portovep/continuous-delivery-playground) - A hands-on tutorial for code bootcamps that want to teach continuous delivery concepts
@@ -27,9 +31,11 @@ Here are some ideas to get you started:
 
 
 ### What I have been learning 🌱
+> If you’re not still learning, you’re already dying. - Ego is the enemy
 
-💾 Modern data architecture <br>
-🕸️ Data Mesh and data products
+
+- 💾 Modern data architecture <br>
+- 🕸️ Data Mesh and data products
 
 
 ### Find me elsewhere 🌎
