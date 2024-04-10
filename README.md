@@ -18,6 +18,13 @@ Here are some ideas to get you started:
 🤓 Technical lead at [@Thoughtworks](https://thoughtworks.com) <br>
 🇪🇸 Born in Galicia, Spain
 
+### About me 👨‍💻
+I’ve worked in tech for over 10 years. I am currently building decentralized data systems and empowered high-performing teams at Thoughtworks.
+
+Over the years, I have helped startups build MVPs fast, scale-ups improve their software engineering practices to achieve fast flow and stability, and large enterprises implement modern architectures like microservices and data mesh.
+
+I’ve also played a variety of roles, some of these include: full stack engineer, infrastructure engineer, agile development trainer, data engineer, tech lead and tech principal.
+
 
 
 ### What I have been building 👨‍💻
